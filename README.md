@@ -1,16 +1,10 @@
-# untitled
 
-A new Flutter project.
+INVOStore
 
-## Getting Started
+## Getting Started  
 
-This project is a starting point for a Flutter application.
+Here's Some Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2022-08-01-15-59-30-687_com example untitled](https://user-images.githubusercontent.com/116195220/197077943-c2569b15-09b7-4ed4-b646-392d376a0a97.jpg)
+![Screenshot_2022-08-01-16-56-39-814_com example untitled](https://user-images.githubusercontent.com/116195220/197077571-33b415c5-e7fe-44c6-b5a6-3416280445c0.jpg)
+![Screenshot_2022-08-01-15-59-24-342_com example untitled](https://user-images.githubusercontent.com/116195220/197077578-6810da55-fe7a-4ef9-9c49-472a840e2097.jpg)
